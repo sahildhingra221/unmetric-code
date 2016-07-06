@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'HoneyScriptLight';
+	src: url('./HoneyScriptLight.eot');
+	src: local('HoneyScriptLight'), url('./HoneyScriptLight.woff') format('woff'), url('./HoneyScriptLight.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_7408">Text with this font applied</p> */
+.fontsforweb_fontid_7408 {
+	font-family: 'HoneyScriptLight' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

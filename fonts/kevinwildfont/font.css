@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'kevinwildfont';
+	src: url('./kevinwildfont.eot');
+	src: local('kevinwildfont'), url('./kevinwildfont.woff') format('woff'), url('./kevinwildfont.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_62979">Text with this font applied</p> */
+.fontsforweb_fontid_62979 {
+	font-family: 'kevinwildfont' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

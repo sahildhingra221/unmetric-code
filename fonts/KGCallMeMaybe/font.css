@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'KGCallMeMaybe';
+	src: url('./KGCallMeMaybe.eot');
+	src: local('KGCallMeMaybe'), url('./KGCallMeMaybe.woff') format('woff'), url('./KGCallMeMaybe.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_18014">Text with this font applied</p> */
+.fontsforweb_fontid_18014 {
+	font-family: 'KGCallMeMaybe' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
